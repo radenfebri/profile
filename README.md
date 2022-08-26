@@ -15,12 +15,12 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
-- 📫 I am also a technical writer at Medium 
+- 🔭 I’m currently working on Laravel Projects
+- 🌱 I have studied IT for 6+ years
+- 👯 I’m looking to collaborate on Laravel, Machine Learning, Network Administrator and DevOps Projects
+- 🤔 I’m lalso working as a Freelancer at Radenhoster.
+- 💬 Ask me about Programming, Administrator, DevOps, and Machine Learning
+- 📫 You can Contact me by my website https://www.radenfebri.my.id
 
 <p>Connect with me on
 <br>	
