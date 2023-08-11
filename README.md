@@ -17,10 +17,10 @@
 
 - 🔭 I’m currently working on Laravel Projects
 - 🌱 I have studied IT for 6+ years
-- 👯 I’m looking to collaborate on Laravel, Machine Learning, Network Administrator and DevOps Projects
-- 🤔 I’m lalso working as a Freelancer at Radenhoster.
+- 👯 I’m looking to collaborate on Laravel, Network Administrator and DevOps Projects
+- 🤔 I’m also working as a Freelancer at Radenhoster.
 - 💬 Ask me about Programming, Administrator, and DevOps
-- 📫 You can Contact me by my website https://www.radenfebri.my.id
+- 📫 You can Contact me by my website https://radenfebri.github.io
 
 <p>Connect with me on
 <br>	
