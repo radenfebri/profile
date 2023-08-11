@@ -19,7 +19,7 @@
 - 🌱 I have studied IT for 6+ years
 - 👯 I’m looking to collaborate on Laravel, Machine Learning, Network Administrator and DevOps Projects
 - 🤔 I’m lalso working as a Freelancer at Radenhoster.
-- 💬 Ask me about Programming, Administrator, DevOps, and Machine Learning
+- 💬 Ask me about Programming, Administrator, and DevOps
 - 📫 You can Contact me by my website https://www.radenfebri.my.id
 
 <p>Connect with me on
