@@ -8,7 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hii!+My+Name+is+RadenFebri!;I'm+a+WEB+Developer...;And+I'm+a+just+Learning+to+program)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/radenfebri?tab=followers)
 [![GitHub followers](https://img.shields.io/github/followers/radenfebri?style=social)](https://github.com/radenfebri?tab=followers)
 
 
