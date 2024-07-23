@@ -20,7 +20,7 @@
 - 🌱 I have studied IT for 6+ years
 - 👯 I’m looking to collaborate on Laravel, Network Administrator and DevOps Projects
 - 🤔 I’m also working as a Freelancer at Radenhoster.
-- 💬 Ask me about Programming, Administrator, and DevOps
+- 💬 Ask me about Programming, Network Administrator, and DevOps
 - 📫 You can Contact me by my website https://www.radenfebri.my.id | https://docs.radenfebri.my.id
 
 <p>Connect with me on
@@ -32,7 +32,7 @@
 &emsp;
 <a target="_blank" href="https://twitter.com/febri_230301"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-<!-- <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a> -->
+<a target="_blank" href="https://medium.com/@radenfebri"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
 <br>
 </p>
